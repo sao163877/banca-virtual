@@ -1,3 +1,3 @@
-# Banca da Esperança
+# Banca Virtual do Bem
 
-Página inicial da sua plataforma com produtos digitais visíveis e botão para criação de novas bancas.
+Este é o início da sua plataforma de bancas digitais com produtos virtuais.
